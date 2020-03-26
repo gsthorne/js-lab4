@@ -11,3 +11,7 @@ article {
   padding: 1.5%;
   float: left;
 }
+
+img {
+  width: 200px;
+}

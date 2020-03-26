@@ -1,0 +1,35 @@
+{
+  "wackyThings": [
+    {
+      "name": "1500 Live Ladybugs",
+      "price": 3.05,
+      "details": "Includes a Ladybug educational sheet with Release Tips, Release Rates, Ladybug Fun Facts and FAQ's",
+      "image": "img/live-ladybugs.jpg",
+    }
+    {
+      "name": "Home Mushroom Farm",
+      "price": 22.85,
+      "details": "Now you can grow your own fungus right at home—and not in between your toes!",
+      "image": "img/mushroom-farm.jpg",
+    }
+    {
+      "name": "Human Finger",
+      "price": 15.00,
+      "details": "That's right: you can buy human fingers on Amazon! The perfect gift for the science teacher in your life—or the kid you need to start hiding the scissors from.",
+      "image": "img/human-finger.jpg",
+    }
+    {
+      "name": "Bacon Scented Mustache",
+      "price": 4.07,
+      "details": "Now you can smell bacon all day in peace, its scent hidden in an inconspicuous piece of facial hair. Sure beats rubbing pig fat on your upper lip.",
+      "image": "img/bacon-mustache.jpg",
+    }
+    {
+      "name": "Godzilla Garden Gnome",
+      "price": 24.99,
+      "details": "Let those pesky, roving neighborhood gnomes know where they're not welcome. (A series of big-budget, narratively lackluster sequels not included.)",
+      "image": "img/godzilla-gnome.jpg",
+    }
+
+  ]
+}
